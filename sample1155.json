@@ -1,37 +1,36 @@
 {
-    "name": "A Block 1155",
-    "description": "A very real not at all fake block",
-    "background_color": "eeeeee",
-    "image": "https://github.com/kevinbeauregard/public/blob/main/picassos%20bulls%20head.jpg?raw=true",
-    "animation_url": "https://github.com/kevinbeauregard/public/blob/main/block.mp4?raw=true",
-    "external_url": "https://www.google.com",
-    "attributes" : [
-        {
-            "trait_type":"Type",
-            "value": "Block"
-        },
-        {
-            "trait_type":"Color",
-            "value": "Black"
-        },
-        {
-            "trait_type": "Level",
-            "value": 3
-        },
-        {
-            "display_type":"boost_number",
-            "trait_type": "Edges",
-            "value": 12,
-        },
-        {
-            "display_type":"boost_percentage",
-            "trait_type": "Real Edges",
-            "value": 100,
-        },
-        {
-            "display_type":"number",
-            "trait_type": "Faces",
-            "value": 6,
-        }
-    ]
+	"name": "A Block 1155",
+	"description": "A very real not at all fake block",
+	"background_color": "eeeeee",
+	"image": "https://github.com/kevinbeauregard/public/blob/main/picassos%20bulls%20head.jpg?raw=true",
+	"animation_url": "https://github.com/kevinbeauregard/public/blob/main/block.mp4?raw=true",
+	"external_url": "https://www.google.com",
+	"attributes": [{
+			"trait_type": "Type",
+			"value": "Block"
+		},
+		{
+			"trait_type": "Color",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Level",
+			"value": 3
+		},
+		{
+			"display_type": "boost_number",
+			"trait_type": "Edges",
+			"value": 12
+		},
+		{
+			"display_type": "boost_percentage",
+			"trait_type": "Real Edges",
+			"value": 100
+		},
+		{
+			"display_type": "number",
+			"trait_type": "Faces",
+			"value": 6
+		}
+	]
 }
